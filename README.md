@@ -1,6 +1,6 @@
 # Flask-Pandas-Excel
 
-conda create --name flask_env python=3.4
-conda install flask sqlalchemy flask-sqlalchemy
-activate flask_env
+conda create --name flask_env python=3.4 <br>
+conda install flask sqlalchemy flask-sqlalchemy <br>
+activate flask_env <br>
 conda install pandas xlrd
